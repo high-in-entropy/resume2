@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="IMG_20190508_185847.jpg">
 
-Hi! I am a junior year undergrad from **National Institute of Techology, Surat**. Highly oriented, to-the-point individual who has an expireience of managing small to super big events, a team of more than 50 students, and mentoring directly a group of 20-24 highly motivated individuals in the field of Finance, Business Development and Entrepreneurship at college level. An avid reader following likes of **Salman Rushdie**, **Ayn Rand**, **Nassim Nicholas Taleb**.
+Hi! I am a junior year undergrad from **National Institute of Techology, Surat**. Highly oriented, to-the-point individual who has an experience of managing small to super big events, a team of more than 50 students, and mentoring directly a group of 20-24 highly motivated individuals in the field of Finance, Business Development and Entrepreneurship at college level. An avid reader following likes of **Salman Rushdie**, **Ayn Rand**, **Nassim Nicholas Taleb**.
 
 I was highly motivated by the works of **Albert Einstein** as a high school grad who taught me how imagination, perseverance and logic when combined can help mankind achieve great things. Since I have an ardent passion for the world of finance, I am a regular follower of **Robert Shiller** and **Ray Dalio**. When I am not reading, programming or working, I love to travel. I love to connect to local people, know about their traditions and culture whenever I visit some place. My dream is to travel the world until I turn 30!
 
